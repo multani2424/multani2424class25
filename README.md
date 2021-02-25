@@ -1,2 +1,2 @@
-# multani2424class25
-this is my AngryBirdGame
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
